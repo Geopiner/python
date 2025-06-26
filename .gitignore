@@ -3,6 +3,5 @@ venv/
 exercises/
 
 # Ignore these specific files
-readme.md
 qazi.py
 VENV.md
